@@ -1,0 +1,4 @@
+autopep8
+pylint
+pandas==2.1.1
+pyinstaller
